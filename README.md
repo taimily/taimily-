@@ -1,1 +1,6 @@
-# taimily-
+- Taimily Rufato
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- Taimily09@gmail.com
+- ![](https://media.tenor.com/4A0Nel-xOFYAAAAi/dancing-letter-letter.gif)
